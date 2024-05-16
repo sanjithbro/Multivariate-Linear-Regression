@@ -1,4 +1,3 @@
-![293717810-e875da86-378f-40dd-b8c7-f3f4c0ea7342](https://github.com/sanjithbro/Multivariate-Linear-Regression/assets/167451460/baca90db-ea3b-482f-a888-14fba267e392)# Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
@@ -35,7 +34,7 @@ print("Intercept",regr.intercept_)
 print("Amount",regr.predict([[3300,1300]]))
 ```
 ## Output:
-![293717810-e875da86-378f-40dd-b8c7-f3f4c0ea7342](https://github.com/sanjithbro/Multivariate-Linear-Regression/assets/167451460/6cef35a3-bd32-445b-a09c-65e247746f54)
+![293717810-e875da86-378f-40dd-b8c7-f3f4c0ea7342](https://github.com/sanjithbro/Multivariate-Linear-Regression/assets/167451460/aa4da4f1-a760-4f0e-81a5-cccf93c40941)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
